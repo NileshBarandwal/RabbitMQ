@@ -1,6 +1,6 @@
 # Publisher-Subscriber Example with RabbitMQ and Node.js
 
-![RabbitMQ Logo](https://www.rabbitmq.com/img/logo-rabbitmq.svg)
+![RabbitMQ Logo](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg)
 
 This repository contains a simple example of a publisher-subscriber pattern implemented in Node.js using RabbitMQ.
 

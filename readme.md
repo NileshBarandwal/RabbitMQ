@@ -42,9 +42,9 @@ To run this example, follow these steps:
 
 Below are screenshots and a recording demonstrating the publisher-subscriber pattern in action:
 
+- ![Watch Recording](Recording_Pub_Sub_1.gif)
 - ![Screenshot 1](Screenshot_Pub_Sub_1.png)
 - ![Screenshot 2](Screenshot_Pub_Sub_2.png)
-- ![Watch Recording](Recording_Pub_Sub_1.gif)
 
 ## How It Works
 
